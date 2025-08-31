@@ -47,10 +47,13 @@ python manager.py
 - View your decrypted credentials  
 
 ### **3️⃣ List Stored Services**  
-- Choose option `3` to see a list of saved services and usernames  
+- Choose option `3` to see a list of saved services and usernames
+
+### **3️⃣ Delete Stored Password**  
+- Choose option `4` to delete saved password 
 
 ### **4️⃣ Exit the Program**  
-- Choose option `4` to exit  
+- Choose option `5` to exit  
 
 ---
 
