@@ -91,6 +91,3 @@ pip install cryptography rich
 Feel free to **fork** this repository, submit pull requests, or suggest improvements!  
 
 ---
-
-## **📜 License**  
-This project is licensed under the **MIT License**.  
