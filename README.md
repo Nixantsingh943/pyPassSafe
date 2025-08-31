@@ -25,9 +25,6 @@ cd pyPassSafe
 
 ### **2. Install Dependencies**  
 Ensure you have Python 3 installed, then install required dependencies:  
-```bash
-pip install -r requirements.txt
-```
 
 ### **3. Run the Password Manager**  
 ```bash
@@ -69,8 +66,7 @@ python manager.py
 📁 password-manager  
  ├── 📄 manager.py  # Main password manager script  
  ├── 📄 secret.key  # Encryption key (auto-generated)  
- ├── 📄 passwords.json  # Encrypted password storage  
- ├── 📄 requirements.txt  # Required dependencies  
+ ├── 📄 passwords.json  # Encrypted password storage   
  ├── 📄 README.md  # Project documentation  
 ```
 
